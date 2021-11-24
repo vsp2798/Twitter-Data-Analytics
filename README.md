@@ -1,19 +1,19 @@
-# Twitter-Data-Analytics
+### Twitter-Data-Analytics
 
 Computed the sentiment of Twitter tweets to get insights for Canadian Elections 2019. Data cleaning and EDA has been done to identify tweets relevant to specific parties. BOW, TF-IDF and N-grams used for model preparation. Logistic regression, KNN, SVM, Random forest classifiers were implemented for model results and predicting election outcomes.
 
 
 The purpose of this repo is to compute the sentiment of tweets posted recently on Canadian Elections, get insight into the Canadian Elections and answer the Research question： What can public opinion on Twitter tell us about the Canadian political landscape in 2019?
 
-# BACKGROUND : 
+### BACKGROUND : 
 
 Sentiment Analysis is a branch of Natural Language Processing (NLP) that allows us to determine algorithmically whether a statement or document is “positive” or “negative”. It's a technology of increasing importance in the modern society as it allows individuals and organizations to detect trends in public opinion by analyzing social media content. Keeping abreast of socio-political developments is especially important during periods of policy shifts such as election years, when both electoral candidates and companies can benefit from sentiment analysis by making appropriate changes to their campaigning and business strategies respectively. 
 
-# REQUIREMENT :
+### REQUIREMENT :
 
 Numpy, Scipy, Scikit, Matplotlib, Pandas, NLTK. 
 
-# APPROACH :
+### APPROACH :
 
 Data cleaning: Design a procedure that prepares the Twitter data for analysis
 
